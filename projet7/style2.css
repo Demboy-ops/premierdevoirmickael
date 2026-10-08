@@ -1,0 +1,39 @@
+body {
+    background-color: #e5e5ed ;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+.titre {
+    background-color: #61616c ;
+    text-align: center;
+    color:#E63946;
+    height: 300px;
+    width: 400px;
+    float: left;
+    
+}
+
+.b1{ 
+    height: 400px;
+    width: 400px;
+    background-color:#9c9ca4;
+    border: 2px solid  #E63946;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    float: right;
+}
+.b2{
+    height: 400px;
+    width: 400px;
+    background-color:#9c9ca4;
+    border: 2px solid  #E63946;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    clear:both
+
+    
+}
+

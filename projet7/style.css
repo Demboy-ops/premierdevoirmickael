@@ -1,0 +1,35 @@
+body {
+    background-color: #e5e5ed ;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+.titre {
+    background-color: #61616c ;
+    text-align: center;
+    color:#E63946;
+    height: 200px;
+    width: 50%;
+    margin:auto;
+}
+
+.p1{ 
+    height: 200px;
+    width: 80%;
+    background-color:#9c9ca4;
+    border: 2px solid  #E63946;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.p2 { height: 200px;
+    width: 80%;
+    background-color: #b72c2c;
+    border: 2px solid #5C5C66;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 20px;
+}
