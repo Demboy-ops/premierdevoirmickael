@@ -8,7 +8,7 @@
 
 .a1{ 
     height: 400px;
-    width: 25%;
+    width: 30%;
     background-color:#9c9ca4;
     border: 2px solid  #E63946;
     border-radius: 20px;
@@ -19,36 +19,6 @@
     padding: 10px;
     float: left;
     
-    
-}
-.a2{
-    height: 400px;
-    width: 25%;
-    background-color:#9c9ca4;
-    border: 2px solid  #E63946;
-    border-radius: 20px;
-    margin-bottom: 20px;
-    text-align: center;
-    margin-right: 5px;
-    padding: 10px;
-    float:left;
-    
-    
-}
-.a3{
-    height: 400px;
-    width: 25%;
-    background-color:#9c9ca4;
-    border: 2px solid  #E63946;
-    border-radius: 20px;
-    margin-bottom: 20px;
-    text-align: center;
-    margin-right: 5px;
-    padding: 10px;
-    float:left;
-    
-    
-
     
 }
 .a4{
